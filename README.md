@@ -101,6 +101,7 @@ GROUP BY
 ORDER BY 
     day;
 ```
+## Visualization
 
 
 ## Conclusion
