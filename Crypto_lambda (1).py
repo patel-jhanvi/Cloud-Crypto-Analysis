@@ -1,6 +1,6 @@
 
 ''' Author : Jhanvi Patel
-This code is made for _
+This code is made for - Lambda role to automate the direct downloading Real-time data and storing in S3 bucket
 The purpose of this code is to help students, researchers and other community members as kickstarter to their code or in any way to help them. Please do not hesitate to contact me for any suggestions. 
 Feel free to have a look at my other codes as well at {https://github.com/patel-jhanvi} '''
 
