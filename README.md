@@ -103,6 +103,43 @@ ORDER BY
 ```
 ## Visualization
 
+# Bitcoin
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/0819cbb5-dfef-4286-9623-739c54b6fa76)
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/db1bf431-7ea3-46bd-90cd-4382493ccee1)
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/d6cf786d-7ba9-48dd-99be-c27424fcc13e)
+
+
+# Etherium
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/04a526cd-923b-4924-9e06-2254149d8897)
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/3e224202-9e5a-48e6-874a-963914cc48a6)
+
+# Binancecoin
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/b92a0a35-3691-4dee-97b8-64cc12e4ef06)
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/33713f4e-e8b2-43bd-ba59-94d537a6f69a)
+
+# Etherium
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/f2ef96e4-ca91-483f-98ef-8929fe2bd3cb)
+
+![image](https://github.com/patel-jhanvi/Cloud-Crypto-Analysis/assets/61945134/18151e90-504f-42e6-acd3-6ecd912ff6dd)
+
+
+
+
+
+
+
+
+
+
+
 
 ## Conclusion
 
