@@ -1,8 +1,8 @@
-**
-Author : Jhanvi Patel
+
+''' Author : Jhanvi Patel
 This code is made for _
-*The purpose of this code is to help students, researchers and other community members as kickstarter to their code or in any way to help them. Please do not hesitate to contact me for any suggestions. *
-Feel free to have a look at my other codes as well at {https://github.com/patel-jhanvi}
+The purpose of this code is to help students, researchers and other community members as kickstarter to their code or in any way to help them. Please do not hesitate to contact me for any suggestions. 
+Feel free to have a look at my other codes as well at {https://github.com/patel-jhanvi} '''
 
 import http.client
 import json
